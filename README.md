@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakibseu0
+- 👋 Hi, I’m Rakib Hosen
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on ...
